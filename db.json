@@ -5,7 +5,7 @@
     "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
     "book_name": "Harry Potter and the Philosopher's Stone",
     "author": "J. K. Rowling",
-		"genre": "fiction",
+		"genre": "Science",
 		"edition": "2021",
 		"publisher": "Bloomsbury",
 		"cost": 1299,
@@ -16,7 +16,7 @@
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
-      "genre": "fiction",
+      "genre": "History",
       "edition": "2021",
       "publisher": "Bloomsbury",
       "cost": 1299,
@@ -27,7 +27,7 @@
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
-      "genre": "fiction",
+      "genre": "Tech",
       "edition": "2021",
       "publisher": "Bloomsbury",
       "cost": 1299,
@@ -38,7 +38,7 @@
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
-      "genre": "fiction",
+      "genre": "Business",
       "edition": "2021",
       "publisher": "Bloomsbury",
       "cost": 1299,
@@ -58,6 +58,7 @@
   ],
   "users":[
     {
+      "id":1,
       "name":"abdullah",
       "email":"abdullah@gmail.com",
       "password":"password"
