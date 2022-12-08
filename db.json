@@ -67,6 +67,15 @@
       "image":"https://i.pravatar.cc/300"
     },
     {
+      "id": 3,
+      "fullname": "zubair",
+      "email": "zubair@gmail.com",
+      "password": "zubair",
+      "followers": "50",
+      "following": "50",
+      "image":"https://i.pravatar.cc/300"
+    },
+    {
       "id": 2,
       "fullname": "Abdullah hassan",
       "email": "abdullah@gmail.com",
