@@ -60,6 +60,7 @@
     {
       "id": 1,
       "fullname": "Masai school",
+      "username":"@masai",
       "email": "masai@gmail.com",
       "password": "masai",
       "followers": "50",
@@ -69,6 +70,7 @@
     {
       "id": 3,
       "fullname": "zubair",
+      "username":"@zubair",
       "email": "zubair@gmail.com",
       "password": "zubair",
       "followers": "50",
@@ -78,11 +80,12 @@
     {
       "id": 2,
       "fullname": "Abdullah hassan",
+      "username": "@abdullah",
       "email": "abdullah@gmail.com",
       "password": "abdullah",
       "followers": "50",
       "following": "50",
-      "image":"https://i.pravatar.cc/300"
+      "image": "https://i.pravatar.cc/300"
     }
   ],
   "posts":[
