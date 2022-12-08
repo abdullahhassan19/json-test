@@ -77,8 +77,9 @@
     }
   ],
   "posts":[
-    {"id":1,"text":"Hello World","img":"https://giphy.com/gifs/nehumanesociety-funny-dog-3o7527pa7qs9kCG78A"},
-    {"id":2,"text":"Hello World 2","img":"https://giphy.com/gifs/nehumanesociety-funny-dog-3o7527pa7qs9kCG78A"},
-    {"id":1,"text":"Hello World 3","img":"https://giphy.com/gifs/nehumanesociety-funny-dog-3o7527pa7qs9kCG78A"}
+    {"id":1,"text":"Hello World",
+    "img":"https://media1.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif?cid=b446e3991bt75ajsiammcgwnb7i4uoxvrmcmjbyfypwvorej&rid=giphy.gif&ct=g"},
+    {"id":2,"text":"Hello World 2","img":"https://media1.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif?cid=b446e3991bt75ajsiammcgwnb7i4uoxvrmcmjbyfypwvorej&rid=giphy.gif&ct=g"},
+    {"id":3,"text":"Hello World 3","img":"https://media1.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif?cid=b446e3991bt75ajsiammcgwnb7i4uoxvrmcmjbyfypwvorej&rid=giphy.gif&ct=g"}
   ]
 }
