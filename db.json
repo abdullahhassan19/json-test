@@ -1,16 +1,16 @@
 {
   "books": [
-     {
-      "id":1,
-    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-    "book_name": "Harry Potter and the Philosopher's Stone",
-    "author": "J. K. Rowling",
-		"genre": "Science",
-		"edition": "2021",
-		"publisher": "Bloomsbury",
-		"cost": 500,
-		"borrowed": false
-  },
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "Science",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 500,
+      "borrowed": false
+    },
     {
       "id": 2,
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -56,12 +56,29 @@
       "borrowed": false
     }
   ],
-  "users":[
+  "users": [
     {
-      "id":1,
-      "name":"abdullah",
-      "email":"abdullah@gmail.com",
-      "password":"password"
+      "id": 1,
+      "fullname": "Masai school",
+      "email": "masai@gmail.com",
+      "password": "masai",
+      "followers": "50",
+      "following": "50",
+      "image":"https://i.pravatar.cc/300"
+    },
+    {
+      "id": 2,
+      "fullname": "Abdullah hassan",
+      "email": "abdullah@gmail.com",
+      "password": "abdullah",
+      "followers": "50",
+      "following": "50",
+      "image":"https://i.pravatar.cc/300"
     }
+  ],
+  "posts":[
+    {"id":1,"text":"Hello World","img":"https://giphy.com/gifs/nehumanesociety-funny-dog-3o7527pa7qs9kCG78A"},
+    {"id":2,"text":"Hello World 2","img":"https://giphy.com/gifs/nehumanesociety-funny-dog-3o7527pa7qs9kCG78A"},
+    {"id":1,"text":"Hello World 3","img":"https://giphy.com/gifs/nehumanesociety-funny-dog-3o7527pa7qs9kCG78A"}
   ]
 }
